@@ -133,3 +133,5 @@ GitHub: @asthac443
 If this project helps you level up your recon — give it a ⭐️ on GitHub!
 
 
+🚧 Note: This tool is an early-stage release as part of my BSides Ahmedabad 2025 talk submission. Improvements and community contributions are welcome. Core functionality is complete and being actively tested.
+
